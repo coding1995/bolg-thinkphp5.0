@@ -1,0 +1,9 @@
+.idea
+composer.lock
+*.log
+
+/runtime
+
+/vendor
+/application/database.php
+/*.sublime-workspace
